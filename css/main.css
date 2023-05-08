@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Castoro+Titlin'); 
 
 html {
-    background-color: rgb(223, 220, 195);
+    background-color: rgb(170, 165, 118);
     font-family: 'Poppins', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -15,7 +15,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(52, 52, 51);
 }
 
 h1 {
